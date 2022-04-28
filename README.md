@@ -8,6 +8,11 @@
 ## 크리스마스 웹 쇼핑몰 
 - 크리스마스에 필요할 상품들을 카테고리별로 보여주는 쇼핑몰
 
+## Getting Started
+```
+$ pip install flask bs4 request pymongo
+$ python app.py
+```
 
 ## 👨‍💻 프로젝트 기간 
 - 2021/12/17 ~ 2021/12/29
